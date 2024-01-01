@@ -2,4 +2,4 @@ This project explains and analyses the runtimes of the gradeschool, Karatsuba, a
 
 ---
 
-Authors:Danh Ho, Aidan Hsu
+Authors: Danh Ho, Aidan Hsu
