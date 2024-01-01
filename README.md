@@ -1,4 +1,4 @@
-This project explained and analyzed the runtimes of the gradeschool, Karatsuba, and Toom-3 multiplication algorithms. 
+This project explains and analyses the runtimes of the gradeschool, Karatsuba, and the Toom-3 multiplication algorithm. 
 
 ---
 
